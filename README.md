@@ -1,1 +1,1 @@
-# The-real-Zip-document-
+Installe: npm i && npm run dev\nBuild: npm run build\nDéploie: Vercel (Vite) → dist\n
